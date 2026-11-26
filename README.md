@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=200&section=header&text=Lucas%20Viana%20Costa&fontColor=16A34A&fontSize=44&fontAlignY=36&desc=cientista%20e%20empreendedor&descAlignY=58&descColor=D4AF37&descSize=19&animation=fadeIn" width="100%" alt="Lucas Viana Costa" />
+<img src="assets/cabecalho.svg" width="100%" alt="Lucas Viana Costa: cientista e empreendedor" />
 
 <a href="https://agi-nanotech.com/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=A8841F&center=true&vCenter=true&width=700&lines=Sensores+aut%C3%B4nomos+e+inteligentes;Descoberta+acelerada+de+materiais;Da+pesquisa+cient%C3%ADfica+ao+produto+de+mercado" alt="" />
@@ -39,7 +39,7 @@
 
 <picture>
   <source media="(max-width: 700px)" srcset="assets/cases-celular.svg" />
-  <img src="assets/cases.svg" width="100%" alt="Cases: Tecnologia base, ALMA, ai-PLANTA, ai-AGUAS" />
+  <img src="assets/cases.svg" width="100%" alt="Cases: ALMA, Tecnologia base, ai-PLANTA, ai-AGUAS" />
 </picture>
 
 </div>
@@ -49,14 +49,14 @@
 
 <br/>
 
-**☀️ [Tecnologia base](https://agi-nanotech.com/)** · AGI Nanotech
-- **Problema:** sensores conectados precisam de energia para operar com autonomia.
-- **Solução:** a tecnologia da AGI Nanotech combina painéis fotovoltaicos de plástico com sensores IoT, em sistemas pensados para ter baixo custo.
-
 **🧬 ALMA** · pesquisa acadêmica · LMDOE/UFRJ
 - **Problema:** descobrir materiais novos por tentativa e erro é lento e caro.
 - **Solução:** ALMA (Ambiente Laboratorial de Materiais e Análises), a suíte computacional do LMDOE, organiza os dados do laboratório com proveniência. Com o PolyCalc, vai do SMILES aos oligômeros, a cálculos de química quântica (xTB e DFT) em clusters HPC e a datasets para modelos de machine learning.
 - **Meu papel:** construí o PolyCalc, módulo de modelagem computacional da suíte ALMA.
+
+**☀️ Tecnologia base** · pesquisa acadêmica
+- **Problema:** sensores conectados precisam de energia para operar com autonomia.
+- **Solução:** painéis fotovoltaicos orgânicos (OPV), de plástico, combinados com sensores IoT, em sistemas pensados para ter baixo custo.
 
 **🌱 [ai-PLANTA](https://agi-nanotech.com/ai/planta)** · AGI Nanotech
 - **Problema:** falta de água, de luz ou de adubo pode passar despercebida até a planta mostrar sintomas.
@@ -66,7 +66,7 @@
 - **Problema:** acompanhar parâmetros de qualidade da água.
 - **Solução:** sensores baseados em nanopartículas plasmônicas e fotônicas.
 
-<sub>Fontes: ai-PLANTA e tecnologia base: agi-nanotech.com, consultado em 25/11/2026. ai-AGUAS e ALMA/PolyCalc: informação do autor, 26/11/2026.</sub>
+<sub>Fontes: ai-PLANTA: agi-nanotech.com, consultado em 25/11/2026. Tecnologia base, ai-AGUAS e ALMA/PolyCalc: informação do autor, 26/11/2026.</sub>
 
 </details>
 
@@ -76,23 +76,11 @@
 
 ## 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,fastapi,postgres,bash,linux&perline=9" alt="python, ts, js, html, css, fastapi, postgres, bash, linux" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,pytorch,sklearn&perline=9" alt="git, pytorch, sklearn" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,fastapi,postgres,bash,linux,git,pytorch,sklearn&perline=12" alt="python, ts, js, html, css, fastapi, postgres, bash, linux, git, pytorch, sklearn" />
 <br/>
 <br/>
 
-![NumPy](https://img.shields.io/badge/NumPy-1C1C1C?style=for-the-badge&logo=numpy&logoColor=D4AF37)
-![pandas](https://img.shields.io/badge/pandas-1C1C1C?style=for-the-badge&logo=pandas&logoColor=D4AF37)
-![SciPy](https://img.shields.io/badge/SciPy-1C1C1C?style=for-the-badge&logo=scipy&logoColor=D4AF37)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1C1C1C?style=for-the-badge&logo=&logoColor=D4AF37)
-![BoTorch](https://img.shields.io/badge/BoTorch-1C1C1C?style=for-the-badge&logo=pytorch&logoColor=D4AF37)
-![GPyTorch](https://img.shields.io/badge/GPyTorch-1C1C1C?style=for-the-badge&logo=pytorch&logoColor=D4AF37)
-![RDKit](https://img.shields.io/badge/RDKit-1C1C1C?style=for-the-badge&logo=&logoColor=D4AF37)
-![xTB](https://img.shields.io/badge/xTB-1C1C1C?style=for-the-badge&logo=&logoColor=D4AF37)
-![ORCA](https://img.shields.io/badge/ORCA-1C1C1C?style=for-the-badge&logo=&logoColor=D4AF37)
-![Slurm](https://img.shields.io/badge/Slurm-1C1C1C?style=for-the-badge&logo=linux&logoColor=D4AF37)
-![PBS](https://img.shields.io/badge/PBS-1C1C1C?style=for-the-badge&logo=linux&logoColor=D4AF37)
+<img src="assets/pacotes.svg" alt="NumPy, pandas, SciPy, Matplotlib, BoTorch, GPyTorch, RDKit, xTB, ORCA, Slurm, PBS" />
 
 </div>
 
@@ -106,21 +94,7 @@
 
 <br/>
 
-<b>🔬 Pesquisa · LMDOE/UFRJ</b>
-<br/><br/>
-
-<a href="mailto:lucasviana@nano.ufrj.br"><img src="https://img.shields.io/badge/lucasviana%40nano.ufrj.br-D4AF37?style=for-the-badge&logo=gmail&logoColor=111111" alt="E-mail acadêmico" /></a>
-<img src="https://img.shields.io/badge/Site%20pessoal%20%C2%B7%20em%20breve-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Site pessoal (em breve)" />
-
-<br/><br/>
-
-<b>🤖 AGI Nanotech</b>
-<br/><br/>
-
-<a href="mailto:lucas@agi-nanotech.com"><img src="https://img.shields.io/badge/lucas%40agi--nanotech.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=111111" alt="E-mail AGI Nanotech" /></a>
-<a href="https://agi-nanotech.com/"><img src="https://img.shields.io/badge/agi--nanotech.com-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Site da AGI Nanotech" /></a>
-
-<br/><br/>
+<table align="center"><tr><td align="center"><b>🔬 LVC Nanotech</b><br/><br/><a href="mailto:lucasviana@nano.ufrj.br"><img src="https://img.shields.io/badge/lucasviana%40nano.ufrj.br-D4AF37?style=for-the-badge&logo=gmail&logoColor=111111" alt="E-mail acadêmico" /></a><br/><img src="https://img.shields.io/badge/Site%20pessoal-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Site pessoal" /></td><td align="center"><b>🤖 AGI Nanotech</b><br/><br/><a href="mailto:lucas@agi-nanotech.com"><img src="https://img.shields.io/badge/lucas%40agi--nanotech.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=111111" alt="E-mail AGI Nanotech" /></a><br/><a href="https://agi-nanotech.com/"><img src="https://img.shields.io/badge/agi--nanotech.com-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Site da AGI Nanotech" /></a></td></tr></table>
 
 </div>
 
